@@ -1,11 +1,11 @@
-## Controller example API
+## get controller structure API
 ```cs
-namespace PrismaBooks.Controllers
+namespace "$project_name".Controllers
 {
-  public class BooksController: ControllerBase
+  public class $controller_name: ControllerBase
   {
     private readonly IBooksRepository _bookRepository;
-    public BooksController(IBooksRepository bookRepository)
+    public $controller_name(IBooksRepository bookRepository)
     {
       _bookRepository = bookRepository;
     }

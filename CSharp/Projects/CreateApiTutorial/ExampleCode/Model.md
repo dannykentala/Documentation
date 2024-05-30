@@ -1,6 +1,6 @@
 ## Model example code 
 ```cs
-namespace project_name.Models
+namespace "$project_name".Models
 {
   public class model_name
   {
