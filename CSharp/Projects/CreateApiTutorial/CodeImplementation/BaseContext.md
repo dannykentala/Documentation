@@ -1,9 +1,6 @@
 ## DbContext implementation code
 ```cs
-using Microsoft.EntityFrameworkCore;
-using "$name_space".Models;
-
-namespace "$name_space".Data
+namespace "$project_name".Data
 {
   public class "$db_context_name": DbContext
   {

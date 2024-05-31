@@ -2,27 +2,23 @@
 
 ### Make repository interface
 ```cs
-// Reference of namespace
-namespace PrismaBooks.Services.BooksRepository
+namespace "$project_name".Services."$repository_name"
 {
-  // Interface name
-  public interface IBooksRepository
-  {
-    // Model
-    IEnumerable<Book> GetAll();
-  }
+  // We have to create the following methods
+  public interface "$repository_interface_name": IHttpGet<"$model_name""$model_name""$model_name">, IHttpPost<"$model_name">, IHttpPut<"$model_name">, IHttpDelete<"$model_name">
+  { }
 }
 ```
 
 ### Make repository primary class
 ```cs
-namespace PrismaBooks.Services.BooksRepository
+namespace "$project_name".Services."$repository_name"
 {
-  public class BooksRepository: IBooksRepository
+  public class "$repository_name": "$repository_interface_name"
   {
     private readonly BaseContext _context;
 
-    public BooksRepository(BaseContext context)
+    public "$repository_name"(BaseContext context)
     {
       _context = context;
     }
@@ -39,7 +35,7 @@ namespace PrismaBooks.Services.BooksRepository
 
 ## Unit of work - HTTP Methods
 ```cs
-namespace PrismaBooks.Services.BooksRepository.BooksMethods
+namespace "$project_name".Services."$repository_name".BooksMethods
 {
   public class BooksGet
   {
