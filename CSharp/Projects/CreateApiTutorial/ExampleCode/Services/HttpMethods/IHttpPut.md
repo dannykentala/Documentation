@@ -1,9 +1,10 @@
 ```cs
 namespace "$project_name".Services.HttpMethods
 {
-  public interface IHttpPost<T>
+  public interface IHttpPut<T>
   {
-    "$http_post_return" Create(); 
+    // T
+    T Update();
   }
 }
 ```

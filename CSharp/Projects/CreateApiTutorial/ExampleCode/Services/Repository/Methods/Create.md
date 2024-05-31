@@ -10,7 +10,7 @@ namespace "$project_name".Services."$repository_name".Methods
 
     public "$http_post_return" Create("$model_name" "$model_name_argument")
     {
-      _context.Books.Add( "$model_name_argument");
+      _context."$model_name"s.Add("$model_name_argument");
       _context.SaveChanges();
       return  "$model_name_argument";
     }

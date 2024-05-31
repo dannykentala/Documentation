@@ -16,7 +16,7 @@ namespace "$project_name".Controllers
     [HttpGet]
     public "$http_getAll_return" getAll()
     {
-      return _"$repository_filed".getAll;
+      return _"$repository_filed".getAll();
     }
 
     [HttpGet("{Id}")]
