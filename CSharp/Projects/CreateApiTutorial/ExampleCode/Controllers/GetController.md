@@ -20,7 +20,7 @@ namespace "$project_name".Controllers
     }
 
     [HttpGet("{Id}")]
-    public "$http_get_return" getById(int Id)
+    public "$http_getById_return" getById(int Id)
     {
       return _"$repository_filed".getById(Id);
     }
