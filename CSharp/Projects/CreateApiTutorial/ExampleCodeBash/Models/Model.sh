@@ -1,4 +1,4 @@
-```cs
+cat > ${modelName}UpdateController.cs << EOM
 namespace "\$project_name".Models
 {
   public class "\$model_name"
@@ -8,4 +8,4 @@ namespace "\$project_name".Models
     public "\$data_type" "\$field_name" {get; set;}
   }
 }
-```
+EOM

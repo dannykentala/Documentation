@@ -1,4 +1,4 @@
-```cs
+cat > ${modelName}UpdateController.cs << EOM
 namespace "\$project_name".Data
 {
   public class "\$db_context_name": DbContext
@@ -11,4 +11,4 @@ namespace "\$project_name".Data
     public DbSet<"\$model_name"> "\$model_name"s {get; set;}
   }
 }
-```
+EOM

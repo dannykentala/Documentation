@@ -1,4 +1,4 @@
-```cs
+cat > ${modelName}UpdateController.cs << EOM
 namespace "\$project_name".Services."\$repository_name"
 {
   public class "\$repository_name": "\$repository_interface_name"
@@ -41,4 +41,4 @@ namespace "\$project_name".Services."\$repository_name"
     } 
   }
 }
-```
+EOM

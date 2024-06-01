@@ -1,4 +1,4 @@
-```cs
+cat > ${modelName}UpdateController.cs << EOM
 namespace "\$project_name".Services."\$repository_name"
 {
   // We have to create the following methods
@@ -8,4 +8,4 @@ namespace "\$project_name".Services."\$repository_name"
     IHttpDelete<"\$model_name">
   { }
 }
-```
+EOM

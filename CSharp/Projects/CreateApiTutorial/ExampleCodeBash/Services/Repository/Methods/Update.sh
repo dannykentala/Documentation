@@ -1,4 +1,4 @@
-```cs
+cat > ${modelName}UpdateController.cs << EOM
 namespace "\$project_name".Services."\$repository_name".Methods
 {
   public class "\$model_name"sUpdate: IHttpPut<"\$model_name">
@@ -16,4 +16,4 @@ namespace "\$project_name".Services."\$repository_name".Methods
     }
   } 
 }
-```
+EOM

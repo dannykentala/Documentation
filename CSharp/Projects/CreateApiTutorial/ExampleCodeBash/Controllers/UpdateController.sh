@@ -1,4 +1,4 @@
-```cs
+cat > ${modelName}UpdateController.cs << EOM
 namespace "\$project_name".Controllers
 {
   [Route("\$api_endpoint_name")]
@@ -18,4 +18,4 @@ namespace "\$project_name".Controllers
     }
   }
 }
-```
+EOM
