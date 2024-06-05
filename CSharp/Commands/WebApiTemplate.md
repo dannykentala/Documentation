@@ -2,7 +2,9 @@
 
 ### Using controllers
 ```bash
-dotnet new webapi --use-controllers -o <api_name>
+# --no-openapi: Remove swagger
+# --use-controllers: Add MVC config
+dotnet new webapi --no-openapi --use-controllers -o WebNoSwagger
 ```
 
 ## References

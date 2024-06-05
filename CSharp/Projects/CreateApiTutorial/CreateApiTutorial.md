@@ -46,6 +46,9 @@ Remember one controller for each method
 [Database connection](/CSharp/Configurations/MakeDatabaseConnection.md)
 
 ## Medium API
+### Connect to tables
+[Connect to tables](/CSharp/HowTo/ConnectTwoDataBases.md)
+
 ### Enable CORS
 ### Make authentication
 ### Make data validation
