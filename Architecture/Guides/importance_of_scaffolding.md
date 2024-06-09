@@ -2,7 +2,7 @@
 scaffolding allow to generate code 
 
 ## Some limitations
-Is hight recommend don't scaffolding these data
+Is high recommend don't scaffolding these data
 
 * Business logic
 
@@ -14,3 +14,5 @@ Medium. (2021). Using Scaffolding Tools to Generate Boilerplate Code
 
 ## Also read
 [Convention over configuration](/Architecture/Guides/convention_over_configuration.md)
+
+[Make templates](/Architecture/Guides/Make%20templates%20and%20scaffolding.md)

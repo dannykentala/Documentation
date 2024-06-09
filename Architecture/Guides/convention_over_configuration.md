@@ -35,4 +35,5 @@ Facilethings. (2024). Convention Over Configuration
 https://stasyuk.net/conventions-over-the-configuration-programming-pattern/
 
 ## Also check
+
 [What is Scaffolding?](/Architecture/Guides/importance_of_scaffolding.md)
