@@ -9,7 +9,7 @@
   # directory
   install -d <DIR>
 
-  # Ful commands
+  # Full commands
   install -m 0755 -d /etc/apt/keyrings
 ```
 

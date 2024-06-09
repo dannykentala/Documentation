@@ -1,5 +1,3 @@
-## Foreign key validation SQL
-
 ```sql
 -- Disabled
 SET FOREIGN_KEY_CHECKS=0;

@@ -1,4 +1,4 @@
-## Resources made by teacher Robinson Cortez riwi
+**Resources made by teacher Robinson Cortez Riwi**
 
 ### Relaciones entre modelos
 https://www.canva.com/design/DAGF5RS7e84/BG8bErZp5Er-TwKszBGvYw/edit

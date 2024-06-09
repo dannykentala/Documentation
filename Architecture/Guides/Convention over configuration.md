@@ -1,4 +1,3 @@
-# Convention over configuration
 Do you remember what your teacher said about standars when building a system in operative
 system class?
 
@@ -20,7 +19,7 @@ server URI is always mapped to an internal reference of 'cacheserver: 6379'.
 ## Importance
 Because of the inherent neediness of source code, I tend to look for as many possible ways to only write that code which is critical to my success, which means I go out of my way to avoid writing boilerplate code.
 
-  >> boilerplate code or just boilerplate are sections of code that have to be included in many places with little or no alteration. When using languages that are considered verbose, the programmer must write a lot of code to accomplish only minor functionality. Such code is called boilerplate.
+  >Boilerplate code or just boilerplate are sections of code that have to be included in many places with little or no alteration. When using languages that are considered verbose, the programmer must write a lot of code to accomplish only minor functionality. Such code is called boilerplate.
 
 ## Benefits
 
@@ -35,5 +34,4 @@ Facilethings. (2024). Convention Over Configuration
 https://stasyuk.net/conventions-over-the-configuration-programming-pattern/
 
 ## Also check
-
-[What is Scaffolding?](/Architecture/Guides/importance_of_scaffolding.md)
+[What is Scaffolding?](Importance%20of%20scaffolding.md)
