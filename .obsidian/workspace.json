@@ -11,8 +11,12 @@
             "id": "b1dfac4d9b9ce748",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Architecture/Guides/Build your own library CSharp.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Architecture/Guides/Build your own library CSharp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Architecture/Guides/Build your own library CSharp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Architecture/Guides/Build your own library CSharp.md"
               }
             }
           }
@@ -140,13 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fea30cc831cc99dd",
+  "active": "b1dfac4d9b9ce748",
   "lastOpenFiles": [
+    "Architecture/Guides/Build your own library C++.md",
+    "Architecture/Guides/Build your own library CSharp.md",
     "Untitled.md",
     "CSharp/DataStructures/Name of.md",
     "Architecture/Guides/What is a library.md",
     "Architecture/Guides/Convention over configuration.md",
-    "Architecture/Build your own library.md",
     "Linux/Programs/Syncthing",
     "Linux/Programs/Syncthing/Sincronizacion de dispositivos con Syncthing.md",
     "Architecture/Guides/Importance of scaffolding.md",
