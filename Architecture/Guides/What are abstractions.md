@@ -1,5 +1,3 @@
-## What are abstractions
-
 ## References
 What is Abstraction in Coding? A Guide for Beginner
   https://www.freecodecamp.org/news/what-is-abstraction-in-coding/

@@ -10,11 +10,7 @@ The goal is to **decrease the number of decisions the programmer has to make** a
 
 -----
 
-Convention-based programming is a simple idea. Build your applications to 'assume' values 
-in their infrastructure as following a convention. For example, my log file output directory 
-is always '/mapped-drive/logs/websites/site.name/', my database connection string is always 
-mapped to the name named instance, no matter in which environment its running. My cache 
-server URI is always mapped to an internal reference of 'cacheserver: 6379'.
+Convention-based programming is a simple idea. Build your applications to 'assume' values in their infrastructure as following a convention. For example, my log file output directory is always '/mapped-drive/logs/websites/site.name/', my database connection string is always mapped to the name named instance, no matter in which environment its running. My cache server URI is always mapped to an internal reference of 'cacheserver: 6379'.
 
 ## Importance
 Because of the inherent neediness of source code, I tend to look for as many possible ways to only write that code which is critical to my success, which means I go out of my way to avoid writing boilerplate code.
