@@ -26,14 +26,19 @@ dotnet run --project ShowCase/ShowCase.csproj
 
 ## References
 
-**I was doing these two**
-
 Microsoft. (2023). Tutorial: Create a .NET class library using Visual Studio Code
   https://learn.microsoft.com/en-us/dotnet/core/tutorials/library-with-visual-studio-code?pivots=dotnet-8-0
 
-https://www.c-sharpcorner.com/article/creating-C-Sharp-class-library-dll-using-visual-studio-net/
+Stackoverflow. (2017). Add a package with a local package file in dotnet
+  https://stackoverflow.com/questions/43400069/add-a-package-with-a-local-package-file-in-dotnet
+
+Atomicobject. (2021). Creating and Using a Local NuGet Package 
+  https://spin.atomicobject.com/local-nuget-package/
 
 others
+
+https://www.c-sharpcorner.com/article/creating-C-Sharp-class-library-dll-using-visual-studio-net/
+
 https://learn.microsoft.com/en-us/dotnet/core/tutorials/library-with-visual-studio?pivots=dotnet-8-0
 
 https://www.c-sharpcorner.com/article/building-a-net-core-class-library/
