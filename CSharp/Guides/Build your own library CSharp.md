@@ -21,3 +21,8 @@ https://www.techieclues.com/articles/creating-and-using-net-class-library-in-csh
 https://dev.to/bradwellsb/create-a-c-class-library-dll-3cbb
 
 https://www.c-sharpcorner.com/uploadfile/61b832/creating-class-library-in-visual-C-Sharp/
+
+## Also see
+
+[Build a package](Build%20a%20package.md)
+[Publish console App](Publish%20console%20App.md)

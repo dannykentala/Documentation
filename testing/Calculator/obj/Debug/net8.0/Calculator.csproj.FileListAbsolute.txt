@@ -1,0 +1,12 @@
+/home/riwip5-048/.dannyKentala/Documentation/testing/Calculator/bin/Debug/net8.0/Calculator.deps.json
+/home/riwip5-048/.dannyKentala/Documentation/testing/Calculator/bin/Debug/net8.0/Calculator.dll
+/home/riwip5-048/.dannyKentala/Documentation/testing/Calculator/bin/Debug/net8.0/Calculator.pdb
+/home/riwip5-048/.dannyKentala/Documentation/testing/Calculator/obj/Debug/net8.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/riwip5-048/.dannyKentala/Documentation/testing/Calculator/obj/Debug/net8.0/Calculator.AssemblyInfoInputs.cache
+/home/riwip5-048/.dannyKentala/Documentation/testing/Calculator/obj/Debug/net8.0/Calculator.AssemblyInfo.cs
+/home/riwip5-048/.dannyKentala/Documentation/testing/Calculator/obj/Debug/net8.0/Calculator.csproj.CoreCompileInputs.cache
+/home/riwip5-048/.dannyKentala/Documentation/testing/Calculator/obj/Debug/net8.0/Calculator.sourcelink.json
+/home/riwip5-048/.dannyKentala/Documentation/testing/Calculator/obj/Debug/net8.0/Calculator.dll
+/home/riwip5-048/.dannyKentala/Documentation/testing/Calculator/obj/Debug/net8.0/refint/Calculator.dll
+/home/riwip5-048/.dannyKentala/Documentation/testing/Calculator/obj/Debug/net8.0/Calculator.pdb
+/home/riwip5-048/.dannyKentala/Documentation/testing/Calculator/obj/Debug/net8.0/ref/Calculator.dll
