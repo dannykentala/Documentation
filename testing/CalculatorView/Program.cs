@@ -4,5 +4,5 @@ using Calculator;
 Console.WriteLine("Hello, World!");
 
 MyCalculator calculator = new();
-int result = calculator.Multiplication(200, 3);
+int result = calculator.Division(200, 3);
 Console.WriteLine(result);  

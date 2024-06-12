@@ -11,8 +11,12 @@
             "id": "bcc75cbc00671bdb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CSharp/Guides/Build your own library CSharp.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CSharp/Guides/Build your own library CSharp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CSharp/Guides/Build your own library CSharp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CSharp/Guides/Build your own library CSharp.md"
+              }
             }
           }
         ]
@@ -140,20 +148,22 @@
   },
   "active": "bcc75cbc00671bdb",
   "lastOpenFiles": [
+    "testing/Calculator/obj/Debug/net8.0/refint",
+    "testing/Calculator/obj/Debug/net8.0/ref",
+    "testing/Calculator/obj/Debug/net8.0",
+    "testing/Calculator/obj/Debug",
+    "testing/Calculator/bin/Debug/net8.0",
+    "testing/Calculator/bin/Debug",
+    "testing/Calculator/bin",
+    "testing/Calculator/obj/Calculator.csproj.nuget.dgspec.json",
+    "testing/Calculator/obj/e6b5587e-9d18-45aa-8c9d-9df2d9dc932d.tmp",
+    "testing/Calculator/obj/project.nuget.cache",
+    "testing/Calculator/obj/39e13523-213c-469e-b652-6d1451248c7d.tmp",
+    "CSharp/CodeGenerator/Controller.md",
     "CSharp/Guides/Build your own library CSharp.md",
     "CSharp/Guides/Build a package.md",
     "CSharp/Guides/How to test your app.md",
     "CSharp/Guides/Publish console App.md",
-    "testing/Calculator/bin/Release/dannyKentala.calculator.1.0.1.nupkg",
-    "testing/Calculator/obj/Release/dannyKentala.calculator.1.0.1.nuspec",
-    "testing/Calculator/obj/3c9f14ac-06dc-4d20-ae92-68e40e50fc00.tmp",
-    "testing/Calculator/obj/036dda1f-2ad5-4e81-bcbc-0bbde87708b4.tmp",
-    "testing/Calculator/obj/2502705d-44ab-4d21-ada0-6334442a97e8.tmp",
-    "testing/Calculator/obj/326b0795-e553-4e7d-bbb5-eeeefedb76b0.tmp",
-    "testing/Calculator/obj/85221406-7756-4272-aabf-37f804cedecb.tmp",
-    "testing/Calculator/obj/7a1af764-2815-4dc0-8b4d-5502badb6b69.tmp",
-    "testing/Calculator/obj/dbd96f4a-da42-49e8-b7c8-f5ea2f345fc4.tmp",
-    "testing/CalculatorView/obj/4c87d958-95c1-4b6d-9b7c-0ebb193d4e04.tmp",
     "Architecture/Guides/Build your own library C++.md",
     "CSharp/DataStructures/Name of.md",
     "Architecture/Guides/What is a library.md",
@@ -166,7 +176,6 @@
     "Architecture.md",
     "References/Robinson cortez.md",
     "DesignPatters/Repository/CSharp.md",
-    "CSharp/CodeGenerator/Controller.md",
     "Architecture/TreeFolder/CSharp/WebApiTree.md",
     "Architecture/Guides/importance_of_scaffolding.md",
     "SQL/Commands/Foreign key validation.md",
@@ -174,7 +183,6 @@
     "Linux/Commands/Check distribution version.md",
     "Linux/Commands/Check arm architecture.md",
     "SQL/Commands/ForeignKeyValidation.md",
-    "SQL/Commands/CreateTable.md",
-    "Linux/Commands/CheckDistributionVersion.md"
+    "SQL/Commands/CreateTable.md"
   ]
 }

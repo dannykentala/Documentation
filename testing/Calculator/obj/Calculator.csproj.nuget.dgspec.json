@@ -1,26 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "/home/riwip5-048/.dannyKentala/Documentation/testing/Calculator/Calculator.csproj": {}
+    "/home/riwip5-029/.dannyKentala/Documentation/testing/Calculator/Calculator.csproj": {}
   },
   "projects": {
-    "/home/riwip5-048/.dannyKentala/Documentation/testing/Calculator/Calculator.csproj": {
+    "/home/riwip5-029/.dannyKentala/Documentation/testing/Calculator/Calculator.csproj": {
       "version": "1.0.1",
       "restore": {
-        "projectUniqueName": "/home/riwip5-048/.dannyKentala/Documentation/testing/Calculator/Calculator.csproj",
+        "projectUniqueName": "/home/riwip5-029/.dannyKentala/Documentation/testing/Calculator/Calculator.csproj",
         "projectName": "dannyKentala.calculator",
-        "projectPath": "/home/riwip5-048/.dannyKentala/Documentation/testing/Calculator/Calculator.csproj",
-        "packagesPath": "/home/riwip5-048/.nuget/packages/",
-        "outputPath": "/home/riwip5-048/.dannyKentala/Documentation/testing/Calculator/obj/",
+        "projectPath": "/home/riwip5-029/.dannyKentala/Documentation/testing/Calculator/Calculator.csproj",
+        "packagesPath": "/home/riwip5-029/.nuget/packages/",
+        "outputPath": "/home/riwip5-029/.dannyKentala/Documentation/testing/Calculator/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/riwip5-048/.nuget/NuGet/NuGet.Config"
+          "/home/riwip5-029/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "/home/riwip5-048/.nuget/NuGet/Calculator/bin/Release/dannyKentala.calculator.test.1.0.0.nupkg": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
