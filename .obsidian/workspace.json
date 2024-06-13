@@ -148,8 +148,11 @@
   },
   "active": "44d6ffa2fd06b082",
   "lastOpenFiles": [
-    "CSharp/Guides/Build your own library CSharp.md",
     "CSharp/HowTo/Send email.md",
+    "CSharp/Guides/Build your own library CSharp.md",
+    "CSharp/Libraries/EntityFrameworkCore.md",
+    "CSharp/Projects/CreateApiTutorial/CreateApiTutorial.md",
+    "CSharp/Commands/Web API template.md",
     "CSharp/Guides/Build a package.md",
     "CSharp/Guides/Publish console App.md",
     "CSharp/Guides/How to test your app.md",
@@ -180,9 +183,6 @@
     "Architecture/Guides/importance_of_scaffolding.md",
     "SQL/Commands/Foreign key validation.md",
     "SQL/Commands/Create table.md",
-    "Linux/Commands/Check distribution version.md",
-    "Linux/Commands/Check arm architecture.md",
-    "SQL/Commands/ForeignKeyValidation.md",
-    "SQL/Commands/CreateTable.md"
+    "Linux/Commands/Check distribution version.md"
   ]
 }
