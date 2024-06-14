@@ -8,7 +8,7 @@ Create new template for API using controllers
 [Web API template](Web%20API%20template.md)
 
 ### Add gitignore
-[Git ignore](/CSharp/Commands/GitIgnore.md)
+[Git ignore](Git%20ignore.md)
 
 ### Install dependencies
 [EF Core](/CSharp/Libraries/EntityFrameworkCore.md)

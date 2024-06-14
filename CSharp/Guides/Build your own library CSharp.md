@@ -12,9 +12,15 @@ dotnet new classlib -o StringLibrary
 dotnet build
 ```
 
-#### Make reference in your current project
+#### Create your project
 ```bash
-dotnet sln add ShowCase/ShowCase.csproj
+dotnet new <project_type> -o <project_name>
+```
+
+See [Web API template](Web%20API%20template.md)
+#### Make reference in your project
+```bash
+dotnet add reference ShowCase/ShowCase.csproj
 ```
 
 #### Use the library

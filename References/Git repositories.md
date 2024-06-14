@@ -4,3 +4,6 @@ https://github.com/jmtejada/pet-store
 
 ## Repository pattern - Rest API
 https://github.com/Gabegi/EF_Core-Repository-Pattern_RestAPI
+
+## Dina Martinez
+https://github.com/DinaMartinezpantoja15
