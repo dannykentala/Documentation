@@ -20,9 +20,6 @@ Remember to create database to work with
 ### Create folder tree struture
 [Basic API MVC structure](/Architecture/TreeFolder/CSharp/WebApiTree.md)
 
-### Optional: Remove Swagger
-[Remove swagger configuration](/CSharp/Configurations/RemoveSwagger.md)
-
 ### Create model
 [Model example](/CSharp/ExampleCode/Model.md)
 

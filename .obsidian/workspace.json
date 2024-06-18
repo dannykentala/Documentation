@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0e4858c3eb5e0996",
+        "id": "42249e1f5be54b18",
         "type": "tabs",
         "children": [
           {
-            "id": "55cd3675818f9052",
+            "id": "0d9a7bfbd6a71e5d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSharp/Guides/Build your own library CSharp.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSharp/Guides/Build your own library CSharp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSharp/Guides/Build your own library CSharp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CSharp/Guides/Build your own library CSharp.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,23 +138,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "55cd3675818f9052",
+  "active": "0d9a7bfbd6a71e5d",
   "lastOpenFiles": [
+    "CSharp/Guides/Build your own library CSharp.md",
+    "CSharp/Guides/Make auth with JWT.md",
+    "CSharp/Guides/How to test your app.md",
+    "CSharp/Libraries/JwtBearer.md",
     "CSharp/Guides/Build a package.md",
+    "CSharp/Projects/CreateApiTutorial/CreateApiTutorial.md",
+    "CSharp/Configurations/ProgramConfiguration.md",
+    "CSharp/Libraries/PomeloSql.md",
+    "CSharp/Libraries/EntityFrameworkCore.md",
+    "CSharp/Commands/Web API template.md",
     "CSharp/About.md",
     "CSharp/HowTo/Send email.md",
-    "CSharp/Commands/Web API template.md",
     "CSharp/Commands/Nuget.md",
     "CSharp/Commands/Package.md",
     "Architecture/Guides/Convention over configuration.md",
     "References/Git repositories.md",
-    "CSharp/Projects/CreateApiTutorial/CreateApiTutorial.md",
-    "CSharp/Guides/Build your own library CSharp.md",
     "References/Robinson cortez.md",
     "CSharp/Commands/Git ignore.md",
-    "CSharp/Libraries/EntityFrameworkCore.md",
     "CSharp/Guides/Publish console App.md",
-    "CSharp/Guides/How to test your app.md",
     "testing/Calculator/obj/Release/net8.0/refint",
     "testing/Calculator/obj/Release/net8.0/ref",
     "testing/Calculator/obj/Release/net8.0",
@@ -179,10 +175,6 @@
     "Architecture/Guides/What is a library.md",
     "Linux/Programs/Syncthing/Sincronizacion de dispositivos con Syncthing.md",
     "Architecture/Guides/Importance of scaffolding.md",
-    "Architecture/Guides/What are abstractions.md",
-    "Architecture/Guides/Make templates and scaffolding.md",
-    "Architecture.md",
-    "DesignPatters/Repository/CSharp.md",
-    "Architecture/TreeFolder/CSharp/WebApiTree.md"
+    "Architecture/Guides/What are abstractions.md"
   ]
 }
