@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f7557b75d5fe3461",
+        "id": "77738f6ff2d4e161",
         "type": "tabs",
         "children": [
           {
-            "id": "bcc75cbc00671bdb",
+            "id": "66167a649098f357",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSharp/Guides/Build your own library CSharp.md",
+                "file": "CSharp/Guides/Build a package.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSharp/Guides/Build your own library CSharp.md",
+                "file": "CSharp/Guides/Build a package.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSharp/Guides/Build your own library CSharp.md",
+                "file": "CSharp/Guides/Build a package.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSharp/Guides/Build your own library CSharp.md"
+                "file": "CSharp/Guides/Build a package.md"
               }
             }
           }
@@ -146,8 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bcc75cbc00671bdb",
+  "active": "66167a649098f357",
   "lastOpenFiles": [
+    "CSharp/Guides/Build your own library CSharp.md",
+    "CSharp/Guides/Build a package.md",
+    "CSharp/HowTo/SendEmail.md",
     "testing/Calculator/obj/Debug/net8.0/refint",
     "testing/Calculator/obj/Debug/net8.0/ref",
     "testing/Calculator/obj/Debug/net8.0",
@@ -158,10 +161,7 @@
     "testing/Calculator/obj/Calculator.csproj.nuget.dgspec.json",
     "testing/Calculator/obj/e6b5587e-9d18-45aa-8c9d-9df2d9dc932d.tmp",
     "testing/Calculator/obj/project.nuget.cache",
-    "testing/Calculator/obj/39e13523-213c-469e-b652-6d1451248c7d.tmp",
     "CSharp/CodeGenerator/Controller.md",
-    "CSharp/Guides/Build your own library CSharp.md",
-    "CSharp/Guides/Build a package.md",
     "CSharp/Guides/How to test your app.md",
     "CSharp/Guides/Publish console App.md",
     "Architecture/Guides/Build your own library C++.md",
