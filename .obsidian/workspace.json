@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "77738f6ff2d4e161",
+        "id": "42249e1f5be54b18",
         "type": "tabs",
         "children": [
           {
-            "id": "66167a649098f357",
+            "id": "0d9a7bfbd6a71e5d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSharp/Guides/Build a package.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSharp/Guides/Build a package.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSharp/Guides/Build a package.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CSharp/Guides/Build a package.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,11 +138,8 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "66167a649098f357",
+  "active": "0d9a7bfbd6a71e5d",
   "lastOpenFiles": [
-    "CSharp/Guides/Build your own library CSharp.md",
-    "CSharp/Guides/Build a package.md",
-    "CSharp/HowTo/SendEmail.md",
     "testing/Calculator/obj/Debug/net8.0/refint",
     "testing/Calculator/obj/Debug/net8.0/ref",
     "testing/Calculator/obj/Debug/net8.0",
@@ -161,7 +150,10 @@
     "testing/Calculator/obj/Calculator.csproj.nuget.dgspec.json",
     "testing/Calculator/obj/e6b5587e-9d18-45aa-8c9d-9df2d9dc932d.tmp",
     "testing/Calculator/obj/project.nuget.cache",
+    "testing/Calculator/obj/39e13523-213c-469e-b652-6d1451248c7d.tmp",
     "CSharp/CodeGenerator/Controller.md",
+    "CSharp/Guides/Build your own library CSharp.md",
+    "CSharp/Guides/Build a package.md",
     "CSharp/Guides/How to test your app.md",
     "CSharp/Guides/Publish console App.md",
     "Architecture/Guides/Build your own library C++.md",
@@ -180,9 +172,6 @@
     "Architecture/Guides/importance_of_scaffolding.md",
     "SQL/Commands/Foreign key validation.md",
     "SQL/Commands/Create table.md",
-    "Linux/Commands/Check distribution version.md",
-    "Linux/Commands/Check arm architecture.md",
-    "SQL/Commands/ForeignKeyValidation.md",
-    "SQL/Commands/CreateTable.md"
+    "Linux/Commands/Check distribution version.md"
   ]
 }

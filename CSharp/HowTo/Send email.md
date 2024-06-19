@@ -129,6 +129,8 @@ public async Task<string> GetAll()
 ```
 
 ## References
+https://github.com/yanezricardo/MailerSendNetCore
+
 https://github.com/vassilis-panos/MailerSend.AspNetCore/blob/main/README.md
 
 https://www.canva.com/design/DAGGvRBbWWg/CtkJVQKiOruWbR0Zo_4XXA/edit

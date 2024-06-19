@@ -5,10 +5,10 @@
 #### Make API template
 Create new template for API using controllers
 
-[Web API template](/CSharp/Commands/WebApiTemplate.md)
+[Web API template](Web%20API%20template.md)
 
 ### Add gitignore
-[Git ignore](/CSharp/Commands/GitIgnore.md)
+[Git ignore](Git%20ignore.md)
 
 ### Install dependencies
 [EF Core](/CSharp/Libraries/EntityFrameworkCore.md)
@@ -19,9 +19,6 @@ Remember to create database to work with
 
 ### Create folder tree struture
 [Basic API MVC structure](/Architecture/TreeFolder/CSharp/WebApiTree.md)
-
-### Optional: Remove Swagger
-[Remove swagger configuration](/CSharp/Configurations/RemoveSwagger.md)
 
 ### Create model
 [Model example](/CSharp/ExampleCode/Model.md)

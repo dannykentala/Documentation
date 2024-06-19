@@ -12,9 +12,15 @@ dotnet new classlib -o StringLibrary
 dotnet build
 ```
 
-#### Make reference in your current project
+#### Create your project
 ```bash
-dotnet sln add ShowCase/ShowCase.csproj
+dotnet new <project_type> -o <project_name>
+```
+
+See [Web API template](Web%20API%20template.md)
+#### Make reference in your project
+```bash
+dotnet add reference ShowCase/ShowCase.csproj
 ```
 
 #### Use the library
@@ -26,14 +32,19 @@ dotnet run --project ShowCase/ShowCase.csproj
 
 ## References
 
-**I was doing these two**
-
 Microsoft. (2023). Tutorial: Create a .NET class library using Visual Studio Code
   https://learn.microsoft.com/en-us/dotnet/core/tutorials/library-with-visual-studio-code?pivots=dotnet-8-0
 
-https://www.c-sharpcorner.com/article/creating-C-Sharp-class-library-dll-using-visual-studio-net/
+Stackoverflow. (2017). Add a package with a local package file in dotnet
+  https://stackoverflow.com/questions/43400069/add-a-package-with-a-local-package-file-in-dotnet
+
+Atomicobject. (2021). Creating and Using a Local NuGet Package 
+  https://spin.atomicobject.com/local-nuget-package/
 
 others
+
+https://www.c-sharpcorner.com/article/creating-C-Sharp-class-library-dll-using-visual-studio-net/
+
 https://learn.microsoft.com/en-us/dotnet/core/tutorials/library-with-visual-studio?pivots=dotnet-8-0
 
 https://www.c-sharpcorner.com/article/building-a-net-core-class-library/
