@@ -1,5 +1,7 @@
 {
   "alwaysUpdateLinks": true,
   "useMarkdownLinks": true,
-  "newFileLocation": "root"
+  "newFileLocation": "root",
+  "useTab": false,
+  "tabSize": 2
 }

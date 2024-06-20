@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "42249e1f5be54b18",
+        "id": "e2ebbcc42d6341bb",
         "type": "tabs",
         "children": [
           {
-            "id": "0d9a7bfbd6a71e5d",
+            "id": "4f40fe66fa29548e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,27 +138,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0d9a7bfbd6a71e5d",
+  "active": "4f40fe66fa29548e",
   "lastOpenFiles": [
-    "CSharp/Guides/Build your own library CSharp.md",
-    "CSharp/Guides/Make auth with JWT.md",
-    "CSharp/Guides/How to test your app.md",
-    "CSharp/Libraries/JwtBearer.md",
+    "README.md",
+    "General/Http Status codes.md",
+    "General",
+    "SQL/Commands/Foreign key validation.md",
+    "SQL/HowTo/Drop ForeignKey.md",
     "CSharp/Guides/Build a package.md",
-    "CSharp/Projects/CreateApiTutorial/CreateApiTutorial.md",
+    "CSharp/Commands/Package.md",
+    "CSharp/Guides/Make auth with JWT.md",
+    "Architecture/Guides/Differences between audience and issuer in JWT.md",
+    "CSharp/DataStructures/abstract_classes_VS_interfaces.md",
+    "CSharp/DataStructures/Clock skew.md",
+    "CSharp/DataStructures/functional_programming_cSharp.md",
+    "CSharp/DataStructures/IEnumerable.md",
+    "CSharp/DataStructures/Name of.md",
+    "CSharp/Configurations/MakeDatabaseConnection.md",
     "CSharp/Configurations/ProgramConfiguration.md",
+    "CSharp/Configurations/RemoveSwagger.md",
+    "CSharp/Commands/Web API template.md",
+    "CSharp/Projects/CreateApiTutorial/CreateApiTutorial.md",
+    "CSharp/Libraries/JwtBearer.md",
+    "CSharp/Guides/Build your own library CSharp.md",
+    "CSharp/Guides/How to test your app.md",
     "CSharp/Libraries/PomeloSql.md",
     "CSharp/Libraries/EntityFrameworkCore.md",
-    "CSharp/Commands/Web API template.md",
     "CSharp/About.md",
     "CSharp/HowTo/Send email.md",
-    "CSharp/Commands/Nuget.md",
-    "CSharp/Commands/Package.md",
-    "Architecture/Guides/Convention over configuration.md",
-    "References/Git repositories.md",
-    "References/Robinson cortez.md",
-    "CSharp/Commands/Git ignore.md",
-    "CSharp/Guides/Publish console App.md",
     "testing/Calculator/obj/Release/net8.0/refint",
     "testing/Calculator/obj/Release/net8.0/ref",
     "testing/Calculator/obj/Release/net8.0",
@@ -167,14 +174,6 @@
     "testing/Calculator/bin/Release",
     "testing/Calculator/bin/Debug/net8.0",
     "testing/Calculator/bin/Debug",
-    "testing/Calculator/bin",
-    "testing/CalculatorView/libs/Calculator.dll",
-    "CSharp/CodeGenerator/Controller.md",
-    "Architecture/Guides/Build your own library C++.md",
-    "CSharp/DataStructures/Name of.md",
-    "Architecture/Guides/What is a library.md",
-    "Linux/Programs/Syncthing/Sincronizacion de dispositivos con Syncthing.md",
-    "Architecture/Guides/Importance of scaffolding.md",
-    "Architecture/Guides/What are abstractions.md"
+    "testing/Calculator/bin"
   ]
 }
