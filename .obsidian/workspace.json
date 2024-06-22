@@ -11,8 +11,12 @@
             "id": "4f40fe66fa29548e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CSharp/Guides/Validations.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CSharp/Guides/Validations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CSharp/Guides/Validations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CSharp/Guides/Validations.md"
+              }
             }
           }
         ]
@@ -140,6 +148,8 @@
   },
   "active": "4f40fe66fa29548e",
   "lastOpenFiles": [
+    "References/Git repositories.md",
+    "CSharp/Guides/Validations.md",
     "README.md",
     "General/Http Status codes.md",
     "General",
@@ -165,7 +175,6 @@
     "CSharp/Libraries/PomeloSql.md",
     "CSharp/Libraries/EntityFrameworkCore.md",
     "CSharp/About.md",
-    "CSharp/HowTo/Send email.md",
     "testing/Calculator/obj/Release/net8.0/refint",
     "testing/Calculator/obj/Release/net8.0/ref",
     "testing/Calculator/obj/Release/net8.0",
