@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "42249e1f5be54b18",
+        "id": "08b54496a8f71093",
         "type": "tabs",
         "children": [
           {
-            "id": "0d9a7bfbd6a71e5d",
+            "id": "252082da39772abc",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,8 +138,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0d9a7bfbd6a71e5d",
+  "active": "252082da39772abc",
   "lastOpenFiles": [
+    "References/Git repositories.md",
+    "CSharp/Guides/Build a package.md",
     "testing/Calculator/obj/Debug/net8.0/refint",
     "testing/Calculator/obj/Debug/net8.0/ref",
     "testing/Calculator/obj/Debug/net8.0",
@@ -150,10 +152,8 @@
     "testing/Calculator/obj/Calculator.csproj.nuget.dgspec.json",
     "testing/Calculator/obj/e6b5587e-9d18-45aa-8c9d-9df2d9dc932d.tmp",
     "testing/Calculator/obj/project.nuget.cache",
-    "testing/Calculator/obj/39e13523-213c-469e-b652-6d1451248c7d.tmp",
     "CSharp/CodeGenerator/Controller.md",
     "CSharp/Guides/Build your own library CSharp.md",
-    "CSharp/Guides/Build a package.md",
     "CSharp/Guides/How to test your app.md",
     "CSharp/Guides/Publish console App.md",
     "Architecture/Guides/Build your own library C++.md",
@@ -164,7 +164,6 @@
     "Architecture/Guides/Importance of scaffolding.md",
     "Architecture/Guides/What are abstractions.md",
     "Architecture/Guides/Make templates and scaffolding.md",
-    "References/Git repositories.md",
     "Architecture.md",
     "References/Robinson cortez.md",
     "DesignPatters/Repository/CSharp.md",
