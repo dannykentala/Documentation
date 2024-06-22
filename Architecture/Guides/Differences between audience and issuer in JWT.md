@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/69229596/differences-between-audience-issuer-and-client-terms-in-jwt-oauth-and-oidc

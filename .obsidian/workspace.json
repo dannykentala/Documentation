@@ -11,8 +11,12 @@
             "id": "252082da39772abc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CSharp/Guides/Validations.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CSharp/Guides/Validations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CSharp/Guides/Validations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CSharp/Guides/Validations.md"
+              }
             }
           }
         ]
@@ -141,6 +149,39 @@
   "active": "252082da39772abc",
   "lastOpenFiles": [
     "References/Git repositories.md",
+    "CSharp/Guides/Validations.md",
+    "README.md",
+    "General/Http Status codes.md",
+    "General",
+    "SQL/Commands/Foreign key validation.md",
+    "SQL/HowTo/Drop ForeignKey.md",
+    "CSharp/Guides/Build a package.md",
+    "CSharp/Commands/Package.md",
+    "CSharp/Guides/Make auth with JWT.md",
+    "Architecture/Guides/Differences between audience and issuer in JWT.md",
+    "CSharp/DataStructures/abstract_classes_VS_interfaces.md",
+    "CSharp/DataStructures/Clock skew.md",
+    "CSharp/DataStructures/functional_programming_cSharp.md",
+    "CSharp/DataStructures/IEnumerable.md",
+    "CSharp/DataStructures/Name of.md",
+    "CSharp/Configurations/MakeDatabaseConnection.md",
+    "CSharp/Configurations/ProgramConfiguration.md",
+    "CSharp/Configurations/RemoveSwagger.md",
+    "CSharp/Commands/Web API template.md",
+    "CSharp/Projects/CreateApiTutorial/CreateApiTutorial.md",
+    "CSharp/Libraries/JwtBearer.md",
+    "CSharp/Guides/Build your own library CSharp.md",
+    "CSharp/Guides/How to test your app.md",
+    "CSharp/Libraries/PomeloSql.md",
+    "CSharp/Libraries/EntityFrameworkCore.md",
+    "CSharp/About.md",
+    "testing/Calculator/obj/Release/net8.0/refint",
+    "testing/Calculator/obj/Release/net8.0/ref",
+    "testing/Calculator/obj/Release/net8.0",
+    "testing/Calculator/obj/Release",
+    "testing/Calculator/bin/Release/net8.0",
+    "testing/Calculator/bin/Release",
+    "References/Git repositories.md",
     "CSharp/Guides/Build a package.md",
     "testing/Calculator/obj/Debug/net8.0/refint",
     "testing/Calculator/obj/Debug/net8.0/ref",
@@ -148,29 +189,6 @@
     "testing/Calculator/obj/Debug",
     "testing/Calculator/bin/Debug/net8.0",
     "testing/Calculator/bin/Debug",
-    "testing/Calculator/bin",
-    "testing/Calculator/obj/Calculator.csproj.nuget.dgspec.json",
-    "testing/Calculator/obj/e6b5587e-9d18-45aa-8c9d-9df2d9dc932d.tmp",
-    "testing/Calculator/obj/project.nuget.cache",
-    "CSharp/CodeGenerator/Controller.md",
-    "CSharp/Guides/Build your own library CSharp.md",
-    "CSharp/Guides/How to test your app.md",
-    "CSharp/Guides/Publish console App.md",
-    "Architecture/Guides/Build your own library C++.md",
-    "CSharp/DataStructures/Name of.md",
-    "Architecture/Guides/What is a library.md",
-    "Architecture/Guides/Convention over configuration.md",
-    "Linux/Programs/Syncthing/Sincronizacion de dispositivos con Syncthing.md",
-    "Architecture/Guides/Importance of scaffolding.md",
-    "Architecture/Guides/What are abstractions.md",
-    "Architecture/Guides/Make templates and scaffolding.md",
-    "Architecture.md",
-    "References/Robinson cortez.md",
-    "DesignPatters/Repository/CSharp.md",
-    "Architecture/TreeFolder/CSharp/WebApiTree.md",
-    "Architecture/Guides/importance_of_scaffolding.md",
-    "SQL/Commands/Foreign key validation.md",
-    "SQL/Commands/Create table.md",
-    "Linux/Commands/Check distribution version.md"
+    "testing/Calculator/bin"
   ]
 }
