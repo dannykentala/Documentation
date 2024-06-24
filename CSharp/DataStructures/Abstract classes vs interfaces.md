@@ -1,5 +1,3 @@
-## Abstract classes vs interfaces
-
 If you only want to share behaviour across a set of software entities, use an **interface**
 
 If you want to share implementation and behaviour, use an **abstract class** instead

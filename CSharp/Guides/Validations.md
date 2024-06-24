@@ -3,7 +3,8 @@
 Fluentvalidation. (2024). Fluent validation official Docs
   https://docs.fluentvalidation.net/en/latest/custom-validators.html
 
-https://dotnettutorials.net/lesson/fluent-api-in-asp-net-core-mvc/
+Dotnettutorials. (2024). Fluent API Validation in ASP.NET Core MVC
+  https://dotnettutorials.net/lesson/fluent-api-in-asp-net-core-mvc/
 
 https://www.bytehide.com/blog/data-annotations-in-csharp
 
