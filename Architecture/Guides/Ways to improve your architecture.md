@@ -1,0 +1,1 @@
+https://dora.dev/capabilities/loosely-coupled-architecture/#ways-to-improve-your-architecture
