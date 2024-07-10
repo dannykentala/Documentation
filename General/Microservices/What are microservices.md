@@ -3,3 +3,7 @@ A microservice typically implements a set of distinct features or functionality.
 ### References
 Google. Introduction to microservices
   https://cloud.google.com/architecture/microservices-architecture-introduction
+
+https://stackoverflow.com/questions/57240638/shared-library-vs-microservice
+
+https://blog.staticvoid.co.nz/2017/library_vs_microservice/
