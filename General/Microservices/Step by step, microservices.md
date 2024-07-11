@@ -14,3 +14,6 @@ This is for a workshop of how to build microservices, in must be in order
 ### References
 Google. Introduction to microservices
   https://cloud.google.com/architecture/microservices-architecture-introduction
+
+IBM. Why should you use microservices and containers?
+  https://developer.ibm.com/articles/why-should-we-use-microservices-and-containers/
