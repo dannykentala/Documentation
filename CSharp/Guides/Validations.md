@@ -34,8 +34,6 @@ https://medium.com/codenx/mastering-validation-a-deep-dive-into-fluentvalidation
 
 https://medium.com/trainingcenter/validating-business-logic-in-c-with-specification-pattern-35dfe9593856
 
-https://stackify.com/c-regex-how-regular-expressions-work-in-c-with-examples/
-
 https://kenslearningcurve.com/tutorials/how-to-make-validations-in-c-easier-with-fluentvalidation/
 
 https://dotnettutorials.net/lesson/fluent-interface-design-pattern/
